@@ -1,0 +1,24 @@
+{
+  "name": "intermodal",
+  "author": "dr. cat",
+  "color": [
+    "#929292",
+    "#f0eff4",
+    "#a566bd",
+    "#2d72a9",
+    "#696969",
+    "#85678f",
+    "#5e8d87",
+    "#707880",
+    "#6b6b6b",
+    "#b8b7bc",
+    "#7901da",
+    "#123344",
+    "#1f1f1f",
+    "#b294bb",
+    "#8abeb7",
+    "#c5c8c6"
+  ],
+  "foreground": "#ffffff",
+  "background": "#000000"
+}
