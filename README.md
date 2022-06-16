@@ -1,5 +1,5 @@
 # cool-schemes
-Color schemes I make that I tend to enjoy. All schemes can be found in the "schemes" directory.
+Color schemes I make that I tend to enjoy. All schemes colors may be found in JSON format in the "schemes" directory. Themes for vim may be found in the "vim" directory.
 
 ## Scheme list
 | Name | Description |
