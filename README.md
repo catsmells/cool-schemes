@@ -9,3 +9,4 @@ Color schemes I make that I tend to enjoy. All schemes can be found in the "sche
 | arabian_nights | A calm desert scheme; easy on the eyes. |
 | intermodal | /o/-themed generic scheme. |
 | yazawa | Scheme based off of some Neko R34 I saw a while ago. |
+| raphi | Based off of Raphi's colors (Gabdrop) |
