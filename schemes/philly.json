@@ -1,0 +1,24 @@
+{
+  "name": "philly",
+  "author": "dr. cat",
+  "color": [
+    "#5e5441",
+    "#5d0c0a",
+    "#2b4b21",
+    "#fea121",
+    "#2f2f5f",
+    "#9b4e13",
+    "#5d5232",
+    "#a7b9a7",
+    "#86785c",
+    "#ad4e48",
+    "#a7ad70",
+    "#f7f566",
+    "#5c5cbb",
+    "#d28c56",
+    "#736a52",
+    "#e3c019"
+  ],
+  "foreground": "#efcaa3",
+  "background": "#0f0a06"
+}
