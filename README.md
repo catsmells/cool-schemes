@@ -13,3 +13,4 @@ Color schemes I make that I tend to enjoy. All schemes colors may be found in JS
 | fruit_punch | Colors from a "Fruit Punch"-flavored BodyArmor bottle. |
 | drcat | My "daily driver" colorscheme. |
 | philly | Colors of Paddy's Pub. |
+| reuters | Inspired by many different vintage Reuters terminal keyboards. |
